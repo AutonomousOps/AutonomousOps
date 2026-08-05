@@ -1,14 +1,5 @@
 # Alex Clayton
 
-**Senior Technical Recruiter who builds and ships his own AI tooling.**
-Mechanicsburg, PA · Remote
-
-Ten years recruiting senior technical, ERP, and finance-systems talent for enterprise consulting and delivery teams, across both agency and in-house environments. Since 2025 I've been building the AI tooling most talent acquisition teams are still evaluating, and running it in daily production against real requisitions while carrying a full desk.
-
-Most of the work here is private, so the contribution graph is the visible part. What follows is what's behind it.
-
----
-
 ## What I build
 
 ### AI candidate credibility verification
@@ -43,18 +34,6 @@ Governed by formal versioned rule documents rather than prompt improvisation: no
 ## Recruiting track record
 
 Ten years of full-cycle technical recruiting across banking, financial services, insurance, consulting, software, and government / public sector.
-
-- **110+ IT hires** delivered at a single firm, plus 30+ across Finance, Marketing, and Sales
-- **4 of 5 seats** filled on one enterprise ServiceNow engagement worth roughly **$906K in annual revenue**, including the rescue of two stalled senior developer roles
-- **20+ placements** into a Big 4 Financial Services Regulatory Compliance & Risk practice, across capital markets, regulatory compliance, and operational risk
-- Promoted to **Team Lead** while carrying a full requisition load; led and mentored five recruiters on sourcing, technical evaluation, and offer delivery
-- Raised team-wide InMail response rates from **32% to 45%** through targeted sourcing strategy
-- **10/10 ClearlyRated** candidate scores across pre-screen, interview, and hire phases
-- Evaluated and led the national rollout and training of an AI recruiting platform
-- Authored an interviewer training guide adopted by consulting teams company-wide
-- Spearheaded staffing of two new national practice areas against strict certification requirements
-
----
 
 ## How I work
 
